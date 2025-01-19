@@ -20,9 +20,7 @@
 
 ## Descrição
 
-Subterranean Maze é um projeto que resolve labirintos. O objetivo do projeto é fornecer uma solução para encontrar o caminho mais eficiente entre o ponto de partida e a saída em um labirinto predefinido.
-
-A aplicação simula a exploração de labirintos em que a solução é mostrada na tela, ajudando a entender como algoritmos de busca funcionam na resolução de problemas de navegação.
+SubterraneanMaze é uma implementação em JavaScript que resolve labirintos representados por matrizes. Usando o algoritmo de Busca em Largura (BFS), encontra o caminho mais curto entre os pontos de início ('S') e fim ('E'). Caminhos livres são representados por "" e bloqueados por "#". O caminho percorrido é retornado como uma lista de coordenadas.
 
 ## Tecnologias utilizadas:
 
