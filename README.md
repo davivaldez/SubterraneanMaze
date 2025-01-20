@@ -46,7 +46,7 @@ A aplicação resolve labirintos predefinidos. Basta carregar o código e ele au
 ### Exemplo de uso:
 
 ```javascript
-import { SubterraneanMaze } from "./SubterraneanMaze.js";
+import { SubterraneanMaze } from "../src/SubterraneanMaze.js";
 
 const maze = new SubterraneanMaze([
   ["#", "", "", "", "", "#", ""],
